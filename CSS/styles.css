@@ -1,0 +1,19 @@
+body {
+    background: #e6c6b7;
+    font-family: 'Raleway', sans-serif;
+    list-style-position: inside;
+   }
+   div{
+    width: 920px;
+    height: 1200px;
+    border: 10px solid whitesmoke;
+    margin: 10%;
+    padding: 0 20px;
+    box-sizing: border-box;
+   }
+
+* {
+    box-sizing: border-box;
+}
+   
+    
